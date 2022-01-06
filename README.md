@@ -1,6 +1,6 @@
-<header align="center">
+<div align="center">
   <img src="images/bootcamp-logo.png" alt="Bootcamp Logo" style="width: 200px" /> 
-</header>
+</div>
 
 # Bootcamp Inter Frontend Developer
 
