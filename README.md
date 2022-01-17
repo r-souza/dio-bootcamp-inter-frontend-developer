@@ -12,7 +12,10 @@ No Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das prin
 
 ## Conteúdo
 
-- [Introdução ao Javascript](introducao-javascript/introducao-javascript.md)
+- [Introdução ao Javascript](introducao-javascript/)
+- [Sintaxe Basica JavaScript](sintaxe-basica-javascript/)
+- [Sintaxe e Operadores](sintaxe-operadores/)
+- [Variáveis e Tipos](variaveis-tipos/)
 
 ## Mais informações
 
