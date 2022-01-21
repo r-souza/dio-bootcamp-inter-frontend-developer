@@ -16,6 +16,7 @@ No Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das prin
 - [Sintaxe Basica JavaScript](sintaxe-basica-javascript/)
 - [Sintaxe e Operadores](sintaxe-operadores/)
 - [Variáveis e Tipos](variaveis-tipos/)
+- [Funções](funcoes/)
 
 ## Mais informações
 
