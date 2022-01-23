@@ -17,6 +17,7 @@ No Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das prin
 - [Sintaxe e Operadores](sintaxe-operadores/)
 - [Variáveis e Tipos](variaveis-tipos/)
 - [Funções](funcoes/)
+- [Coleções](colecoes/)
 
 ## Mais informações
 
