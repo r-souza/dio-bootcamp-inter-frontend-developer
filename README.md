@@ -18,6 +18,7 @@ No Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das prin
 - [Variáveis e Tipos](variaveis-tipos/)
 - [Funções](funcoes/)
 - [Coleções](colecoes/)
+- [Debugging e Error handling](debugging-error-hadling/)
 
 ## Mais informações
 
