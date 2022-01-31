@@ -21,6 +21,7 @@ No Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das prin
 - [Debugging e Error handling](debugging-error-hadling/)
 - [Javascript Assíncrono](javascript-assincrono/)
 - [Orientação a Objetos](orientacao-objetos/)
+- [Map, Filter e Reduce](map-filter-reduce/)
 
 ## Mais informações
 
