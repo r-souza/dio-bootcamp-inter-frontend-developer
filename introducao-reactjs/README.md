@@ -51,7 +51,6 @@ React não separa as tecnologias colocando marcação em arquivos separados, e s
 
 O Browser não interpreta JSX, por isso é necessário um transpilador, sendo o mais utilizado o Babel.
 
-
 ## Ciclo de vida do ReactJS
 
  - Inicialização;
@@ -62,6 +61,7 @@ O Browser não interpreta JSX, por isso é necessário um transpilador, sendo o 
 ## Estado
 
 Nenhum component pai ou filho devem saber se outro componente possui estado ou não.
+
 
 ## O que é Webpack?
 
@@ -158,5 +158,9 @@ Adicione a linha abaixo em `scripts` no arquivo `package.json`:
 "start": "webpack-dev-server --mode development",
 ```
 
+Para ver o projeto funcionando, execute o comando:
+```bash
+npm run start
+```
 
 ## Instalação e configuração do ESLint
