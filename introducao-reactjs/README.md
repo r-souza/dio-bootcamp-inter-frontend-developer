@@ -163,4 +163,6 @@ Para ver o projeto funcionando, execute o comando:
 npm run start
 ```
 
-## Instalação e configuração do ESLint
+## Renderização Condicional
+
+"Em React, você pode criar componebntes distintos que encapsulam o comportamento que você precisa. Então, você pode renderizar apenas alguns dos elementos, dependendo do estado da sua aplicação." - https://pt-br.reactjs.org/docs/conditional-rendering.html
