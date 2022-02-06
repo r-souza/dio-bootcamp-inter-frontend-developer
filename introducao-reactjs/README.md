@@ -166,3 +166,12 @@ npm run start
 ## Renderização Condicional
 
 "Em React, você pode criar componebntes distintos que encapsulam o comportamento que você precisa. Então, você pode renderizar apenas alguns dos elementos, dependendo do estado da sua aplicação." - https://pt-br.reactjs.org/docs/conditional-rendering.html
+
+## Manipulação de Eventos
+
+"Manipular eventos em elementos React é muito semelhante a manipular eventos em elementos do DOM. Existem algumas diferenças sintáticas:
+ - Eventos em React são nomeados usando camelCase ao invés de letras minúsculas;
+ - Com `JSX`, você passa uma função como manipulador de eventos ao invés de um texto."
+
+https://pt-br.reactjs.org/docs/handling-events.html
+
