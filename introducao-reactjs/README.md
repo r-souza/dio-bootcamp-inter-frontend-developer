@@ -83,7 +83,7 @@ Link do Webpack: https://webpack.js.org/
  - `Entry`: Utilizando grafo, o Webpack precisa de um ponto de entrada para buscar todos os módulos e dependências;
  - `Output`: É para determinar quais são os bundlers que o webpack irá emitir;
  - `Loaders`: É para permitir que o Webpack utilize outros tipos de arquivos, como, por exemplo, o CSS;
- - `Plugins`: Plugins podem ser utilizados para otimizaçào de pacotes, minificação, injeção de scripts e muitos mais;
+ - `Plugins`: Plugins podem ser utilizados para otimização de pacotes, minificação, injeção de scripts e muitos mais;
  - `Mode`: O modo de desenvolvimento, que pode ser `development` ou `production` ou `none`.
    - `Production Mode`: Otimização de pacotes, minificação, injeção de scripts e muitos mais;
    - `Development Mode`: Não otimização de pacotes, não minificação, é executado com 3 plugins: `UglifyJSPlugin`, `ModuleConcatenationPlugin` e `NoEmitOnErrorsPlugin`.
@@ -165,7 +165,7 @@ npm run start
 
 ## Renderização Condicional
 
-"Em React, você pode criar componebntes distintos que encapsulam o comportamento que você precisa. Então, você pode renderizar apenas alguns dos elementos, dependendo do estado da sua aplicação." - https://pt-br.reactjs.org/docs/conditional-rendering.html
+"Em React, você pode criar componentes distintos que encapsulam o comportamento que você precisa. Então, você pode renderizar apenas alguns dos elementos, dependendo do estado da sua aplicação." - https://pt-br.reactjs.org/docs/conditional-rendering.html
 
 ## Manipulação de Eventos
 
@@ -175,3 +175,11 @@ npm run start
 
 https://pt-br.reactjs.org/docs/handling-events.html
 
+## Pensando do jeito React
+
+ - Comece com um Mock;
+ - Separe a UI em uma hierarquia de componentes;
+ - Crie uma versão estática em React;
+ - Identifique a representação mínima (mas completa) do state da UI;
+ - Identifique onde o State deve ficar;
+ - Adicione o fluxo de dados inverso;
